@@ -1,3 +1,4 @@
+![Data Sys](https://github.com/user-attachments/assets/1c8dce56-8228-498d-95ed-76f8100e391d)
 # DataSys – Smart Data Cleaner & Visualizer
 📊 *DataSys* is a powerful and user-friendly web application built with *Streamlit* that helps you clean your datasets and visualize relationships between numerical features quickly and efficiently.
 
